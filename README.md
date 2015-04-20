@@ -4,7 +4,7 @@
 
 ##Description
 
-This app uses AngularJS to add, remove, edit and filter students in a class.
+This app uses AngularJS to add, remove, edit and filter students in a class. This code exemplifies our understanding of two-way data binding and utilizing directives in AngularJS. 
 
 ###Technologies Used
 
