@@ -1,6 +1,8 @@
 #Student Roster Application
 
-##Bojana Skarich and David Eliason  April 20th, 2015
+##Bojana Skarich and David Eliason  
+
+###April 20th, 2015
 
 ##Description
 
